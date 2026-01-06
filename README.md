@@ -1,2 +1,2 @@
-# Dummy
+# GIT AND GITHUB
 nothing
